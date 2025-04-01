@@ -1,7 +1,8 @@
 from django.contrib import admin
-from .models import Category, Product
+from .models import Product, Category
 
 # Register your models here.
+
 
 class ProductAdmin(admin.ModelAdmin):
     """Admin View for Product"""
