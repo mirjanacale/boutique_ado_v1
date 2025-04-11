@@ -84,6 +84,9 @@ a.category-badge > span.badge:hover {
 }
 .btt-link {
     cursor: pointer;
+    .remove-item {
+        cursor: pointer;
+    }
 }
 
 /* -------------------------------- Media Queries */
